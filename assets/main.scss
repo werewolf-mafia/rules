@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+h2 {
+    margin-top: 2rem;
+    padding-bottom: 0.5em;
+    border-bottom: solid #cccccc 1px;
+}
+
 ins {color: green;}
 del {color: red;}
 
